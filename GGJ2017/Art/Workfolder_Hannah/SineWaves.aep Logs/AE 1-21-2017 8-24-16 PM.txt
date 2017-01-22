@@ -1,0 +1,12 @@
+Adobe After Effects v13.7.1 Windows 64 render log for project “SineWaves.aep”
+
+Rendering started on 1/21/2017 at 8:24:16 PM
+
+  1/21/2017 8:24:16 PM: Starting composition “SineWave”.
+
+  Output To: I:\GlobalGameJam2017\Temp\SineWaves02\SineWave\SineWave_[#####].tif    1/21/2017 8:24:17 PM: Finished composition “SineWave”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 1/21/2017 at 8:24:17 PM
+

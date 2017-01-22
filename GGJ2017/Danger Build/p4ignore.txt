@@ -1,0 +1,45 @@
+# IDE
+-
+specific files
+.vs
+.idea
+*.sdf
+*.opensdf
+*.user
+# Build artifacts and working files
+Library
+Temp
+Obj
+Build
+Saved
+Intermediate
+# Project files
+*.csproj
+*.sln
+*.iml
+# OS cache files
+Thumbs.db
+# Unreal
+-
+specific files
+Engine/Binaries/
+Engine/DerivedDataCache/
+Engine/Intermediate/
+Engine/Plugins/*/*/Binaries/
+Engine/Plugins/*/*/Intermediate/
+Engine/Programs/UnrealHeaderTool/
+Engine/Programs/UnrealPak/
+Engine/Saved/
+Engine/Shaders/Binaries/
+Engine/Source/*/*/*/obj/
+Engine/Source/*/*/obj/
+Engine/Source/*/obj/
+UE4.opensdf
+UE4.sdf
+UE4.sln
+UE4.suo
+UE4.*.suo
+GameName/Binaries/
+GameName/DerivedDataCache/
+GameName/Intermediate/
+GameName/Saved/
